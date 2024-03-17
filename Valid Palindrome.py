@@ -15,17 +15,33 @@ from typing import *
 
 #         return simpleStr == reversedStr
 
-# list
+# my2
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        strs = []
+        simpleString = ""
         for char in s:
             if char.isalnum():
-                strs.append(char.lower())
+                simpleString += char.lower()
+        simpleString = list(simpleString)
+        reversedString = simpleString.copy()
+        reversedString.reverse()
+        return simpleString == reversedString
+
+# list
+# class Solution:
+#     def isPalindrome(self, s: str) -> bool:
+#         strs = []
+#         for char in s:
+#             if char.isalnum():
+#                 strs.append(char.lower())
         
-        while len(strs) > 1:
-            if strs.pop(0) != strs.pop():
-                return False
+#         while len(strs) > 1:
+#             if strs.pop(0) != strs.pop():
+#                 return False
             
-        return True
-        
+#         return True
+
+str = "hello"
+s = list(str)
+s.reverse()
+print(s)
