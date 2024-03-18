@@ -11,6 +11,7 @@
 		4A9B6E2E2BA7A2190039A320 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B6E2D2BA7A2190039A320 /* TwoSum.swift */; };
 		4A9B6E302BA7A2830039A320 /* Reverse String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B6E2F2BA7A2830039A320 /* Reverse String.swift */; };
 		4A9B6E322BA7A2B10039A320 /* Valid Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B6E312BA7A2B10039A320 /* Valid Palindrome.swift */; };
+		4AEF19902BA7D00F005FC752 /* Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEF198F2BA7D00F005FC752 /* Palindrome Number.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		4A9B6E2D2BA7A2190039A320 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		4A9B6E2F2BA7A2830039A320 /* Reverse String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse String.swift"; sourceTree = "<group>"; };
 		4A9B6E312BA7A2B10039A320 /* Valid Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Valid Palindrome.swift"; sourceTree = "<group>"; };
+		4AEF198F2BA7D00F005FC752 /* Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Palindrome Number.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				4A9B6E2D2BA7A2190039A320 /* TwoSum.swift */,
 				4A9B6E2F2BA7A2830039A320 /* Reverse String.swift */,
 				4A9B6E312BA7A2B10039A320 /* Valid Palindrome.swift */,
+				4AEF198F2BA7D00F005FC752 /* Palindrome Number.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AEF19902BA7D00F005FC752 /* Palindrome Number.swift in Sources */,
 				4A9B6E322BA7A2B10039A320 /* Valid Palindrome.swift in Sources */,
 				4A9B6E2E2BA7A2190039A320 /* TwoSum.swift in Sources */,
 				4A9B6E272BA7A2060039A320 /* main.swift in Sources */,

@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(twoSum([2, 7, 11, 15], 9))
+print(isPalindrome(-121))

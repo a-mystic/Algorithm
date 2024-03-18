@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+func isPalindrome(_ x: Int) -> Bool {
+    let text = String(x)
+    return text == String(text.reversed())
+}
