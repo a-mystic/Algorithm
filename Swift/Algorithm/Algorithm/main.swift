@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(isPalindrome(-121))
+print(romanToInt("IV"))

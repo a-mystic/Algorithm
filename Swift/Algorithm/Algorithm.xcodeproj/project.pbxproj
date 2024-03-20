@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A2E86B22BAA6A4700FA9AC7 /* Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A2E86B12BAA6A4700FA9AC7 /* Roman to Integer.swift */; };
 		4A9B6E272BA7A2060039A320 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B6E262BA7A2060039A320 /* main.swift */; };
 		4A9B6E2E2BA7A2190039A320 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B6E2D2BA7A2190039A320 /* TwoSum.swift */; };
 		4A9B6E302BA7A2830039A320 /* Reverse String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9B6E2F2BA7A2830039A320 /* Reverse String.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4A2E86B12BAA6A4700FA9AC7 /* Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Roman to Integer.swift"; sourceTree = "<group>"; };
 		4A9B6E232BA7A2060039A320 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A9B6E262BA7A2060039A320 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4A9B6E2D2BA7A2190039A320 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				4A9B6E2F2BA7A2830039A320 /* Reverse String.swift */,
 				4A9B6E312BA7A2B10039A320 /* Valid Palindrome.swift */,
 				4AEF198F2BA7D00F005FC752 /* Palindrome Number.swift */,
+				4A2E86B12BAA6A4700FA9AC7 /* Roman to Integer.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 				4AEF19902BA7D00F005FC752 /* Palindrome Number.swift in Sources */,
 				4A9B6E322BA7A2B10039A320 /* Valid Palindrome.swift in Sources */,
 				4A9B6E2E2BA7A2190039A320 /* TwoSum.swift in Sources */,
+				4A2E86B22BAA6A4700FA9AC7 /* Roman to Integer.swift in Sources */,
 				4A9B6E272BA7A2060039A320 /* main.swift in Sources */,
 				4A9B6E302BA7A2830039A320 /* Reverse String.swift in Sources */,
 			);
