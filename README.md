@@ -1,1 +1,1 @@
-Algorithm practice.
+Algorithm practice
